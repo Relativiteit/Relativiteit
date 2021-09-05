@@ -1,8 +1,6 @@
 ### Hi there 👋
 <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=relativiteit&count_private=true&show_icons=true)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=relativiteit)](https://github.com/relativiteit/github-readme-stats)
-
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realativiteit&layout=compact)](https://github.com/realtiviteit/github-readme-stats)<!--
 **Relativiteit/Relativiteit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
