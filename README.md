@@ -1,4 +1,4 @@
-### Hi there 👋
+# My profile 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=relativiteit&count_private=true)
 
@@ -6,7 +6,7 @@
 
 
 # Languages and frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,javascript,typescript,nestjs,jest,aws,react,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,typescript,nestjs,jest,aws,react,cpp)](https://skillicons.dev)
 
 
 =<!--**Relativiteit/Relativiteit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
