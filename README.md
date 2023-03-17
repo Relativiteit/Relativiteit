@@ -6,7 +6,7 @@
 
 
 # Languages and frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,maven,python,django,flask,typescript,node,express,nestjs,jest,aws,react,vite,godot,linux,raspberrypi,unity,cpp,ros)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,linux,raspberrypi,unity,cpp,ros,js,html,css,python,typescript,nodejs,express,nestjs,jest,aws,react,vite)](https://skillicons.dev)
 
 
 
